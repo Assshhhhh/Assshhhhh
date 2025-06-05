@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jamal_ali_711" target="blank"><img src="https://img.shields.io/twitter/follow/jamal_ali_711?logo=twitter&style=for-the-badge" alt="jamal_ali_711" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin, Jetpack, Jetpack Compose**
+- 🌱 I’m currently learning **Flutter (Dart)**
+
+- 💻 Experienced In: **Android Development, Kotlin, Java, Jetpack, Jetpack Compose**
 
 - 💬 Ask me anything about **Android, Kotlin, Java etc.**
 
